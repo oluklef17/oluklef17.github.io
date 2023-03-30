@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0d704c0.css",
+    "main.js": "/static/js/main.8390f34f.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.78825c65d4584fb7fed9.jpg",
+    "static/media/api-code.png": "/static/media/api-code.39e7830d1fa56d5e443b.png",
+    "static/media/journal-img.png": "/static/media/journal-img.74ff540bb5c95132cfa8.png",
+    "static/media/bot-img.png": "/static/media/bot-img.f6667b22ab3ad64db86f.png",
+    "static/media/mt4-account-manager.png": "/static/media/mt4-account-manager.e50200e272cb77d7b9a9.png",
+    "static/media/Screenshot (955).png": "/static/media/Screenshot (955).58652dff5a9b11cf4d8c.png",
+    "static/media/Screenshot (954).png": "/static/media/Screenshot (954).88419cdf3729c50f7c3c.png",
+    "static/media/test-dp.jpg": "/static/media/test-dp.69e235d5d233d3a4fc6e.jpg",
+    "static/media/tg-img.png": "/static/media/tg-img.604f107d2b0a2259a26a.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d0d704c0.css.map": "/static/css/main.d0d704c0.css.map",
+    "main.8390f34f.js.map": "/static/js/main.8390f34f.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0d704c0.css",
+    "static/js/main.8390f34f.js"
+  ]
+}
